@@ -31,10 +31,10 @@ and coding of course 💻
 
 <img  alt='PYTHON' width="36px" style='align:left;' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align='left' alt='SQL' width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img alt='PostgreSQL' width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img alt='SELENIUM' width="36px"src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
-<img alt='POSTMAN' width="36px" src="https://im0-tub-ru.yandex.net/i?id=e4404bd4726626092e912b5ccd9a9f97&n=13" />
-<img alt='GIT' width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align='left' alt='PostgreSQL' width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align='left' alt='SELENIUM' width="36px"src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
+<img align='left' alt='POSTMAN' width="36px" src="https://im0-tub-ru.yandex.net/i?id=e4404bd4726626092e912b5ccd9a9f97&n=13" />
+<img align='left' alt='GIT' width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
 
