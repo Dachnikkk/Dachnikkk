@@ -41,7 +41,7 @@ and coding of course 💻
 <br />
 
 ### You can contact me:
-<a href='https://t.me/DachniKKKKK'></a><img align='left' alt='telegram' width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /></a>
+<a href='https://t.me/DachniKKKKK'><img align='left' alt='telegram' width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /></a>
 <a href='https://www.instagram.com/dachnikkkkkk/'><img align='left' alt='instagram' width="36px" src="https://img2.freepng.ru/20180715/hpo/kisspng-social-media-computer-icons-promotion-youtube-insta-logo-5b4bff83d146a1.5102283415317072678572.jpg" /></a>
 
 
